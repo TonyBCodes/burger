@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\db",
+    "\\models",
+    "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\js",
+    "\\views",
+    "\\views\\layouts"
+  ],
+  "SelectedNode": "\\controllers\\burgers_controller1.js",
+  "PreviewInSolutionExplorer": false
+}
